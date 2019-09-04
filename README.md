@@ -1,4 +1,4 @@
-# posters
+# Posters
 Collection of posters I've presented
 
 # Selected references:
